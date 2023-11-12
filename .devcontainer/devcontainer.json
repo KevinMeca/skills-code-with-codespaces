@@ -1,0 +1,9 @@
+{
+     // Asigne un nombre a esta configuración
+     "name": "¡Codespace para aptitudes!",
+     // Usar la imagen del codespace base
+     "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+     "remoteUser": "codespace",
+     "overrideCommand": false
+   }
