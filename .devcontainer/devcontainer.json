@@ -20,4 +20,6 @@
             ]
         }
     }
+     ,
+    "postCreateCommand": "echo '# ¡Escribiendo código tras la creación del codespace!' >> codespace.md"
    }
